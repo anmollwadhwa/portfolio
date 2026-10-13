@@ -11,6 +11,9 @@ export default function Home() {
         <p className="mt-8 max-w-2xl text-2xl leading-tight tracking-[-0.03em] text-black sm:text-3xl">
           A second-year CS grad building a foundation in Rust.
         </p>
+        <div className="mt-14 inline-flex border border-black/20 bg-black px-5 py-3 font-mono text-sm font-semibold uppercase tracking-[0.2em] text-[#FAF0DD]">
+          Coming soon
+        </div>
       </section>
     </main>
   );
