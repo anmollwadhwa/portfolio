@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Anmol Wadhwa | Portfolio",
-  description: "Personal portfolio of Anmol Wadhwa, a second-year CS grad building a foundation in Rust.",
+  description: "Personal portfolio of Anmol Wadhwa, a second-year CS student building a foundation in Backend systems and Rust.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
